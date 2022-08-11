@@ -1,5 +1,5 @@
 @mixin small-to-medium {
-    @media (min-width: 376px) and (max-width : 768px) {
+    @media (min-width: 356px) and (max-width : 768px) {
        @content
     }
 }
