@@ -1,0 +1,71 @@
+.brand-cont-div {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hd {
+  font-weight: 700;
+  margin-bottom: 0rem;
+}
+
+.bg-brand {
+  background-color: rgb(193, 255, 193);
+  border-radius: 10px;
+}
+
+.brand-img {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.br1 {
+  border-radius: 10px;
+}
+
+.brand-div {
+  position: relative;
+}
+
+.svg-curve {
+  position: absolute;
+  top: 332px;
+  width: 100%;
+}
+
+.brand-head {
+  font-weight: 700;
+}
+
+.acc-head {
+  font-size: 32px;
+  font-weight: 700;
+  padding: 3rem;
+}
+
+.acc-sizing {
+  width: 50%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  padding-bottom: 3rem;
+}
+
+.faq {
+  position: relative;
+}
+
+.faq-bg {
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+}
+
+.acc-ques {
+  color: green;
+}/*# sourceMappingURL=brand.css.map */
